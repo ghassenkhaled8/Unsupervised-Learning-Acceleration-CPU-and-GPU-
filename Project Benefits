@@ -1,0 +1,8 @@
+Refactoring Workloads
+Data exploration is a vital part of Data Science Workflows:
+Understanding, cleaning, manipulating data
+Consistent data types, formats and filling in gaps
+Reiterating to add features
+Pandas: Functions developed with vectorized operations for top-speed computations
+But they are CPU-constrained, therefore, tasks are very time consuming
+RAPIDS: Much faster Extract, Transform and Load (ETL) tasks
